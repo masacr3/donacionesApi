@@ -11,6 +11,8 @@ public class Usuario {
     private String provincia;
     private Integer monto;
 
+    public Usuario(){}
+
     public Usuario( String nombre, String provincia, Integer monto) {
         this.nombre = nombre;
         this.provincia = provincia;
