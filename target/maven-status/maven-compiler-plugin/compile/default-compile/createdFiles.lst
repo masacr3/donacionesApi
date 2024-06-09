@@ -1,8 +1,14 @@
-com\masacr3\donacionesApi\mongo\RepositoryUsuario.class
 com\masacr3\donacionesApi\mongo\Usuario.class
 com\masacr3\donacionesApi\DonacionesApiApplication.class
-com\masacr3\donacionesApi\WebConfig.class
+com\masacr3\donacionesApi\dto\CbuDto.class
 com\masacr3\donacionesApi\dto\RespuestaDto.class
 com\masacr3\donacionesApi\controladores\AgradecimientosController.class
-com\masacr3\donacionesApi\dto\DonacionDto.class
+com\masacr3\donacionesApi\mongo\Cbu.class
 com\masacr3\donacionesApi\dto\PersonaDto.class
+com\masacr3\donacionesApi\mongo\RepositoryCbu.class
+com\masacr3\donacionesApi\dto\RespuestaCbu.class
+com\masacr3\donacionesApi\mongo\RepositoryUsuario.class
+com\masacr3\donacionesApi\WebConfig.class
+com\masacr3\donacionesApi\controladores\CbuController.class
+com\masacr3\donacionesApi\dto\DonacionDto.class
+com\masacr3\donacionesApi\dto\RespuestaSimpleDto.class
